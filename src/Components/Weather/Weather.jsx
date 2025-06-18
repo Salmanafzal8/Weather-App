@@ -81,7 +81,7 @@ const Weather = () => {
             onClick={handleSearch}
             className="flex items-center justify-center hover:bg-blue-400 hover:text-amber-50 rounded-full h-9 w-11 bg-white"
           >
-            <CiSearch className="size-8 p-1 opacity-80" />
+            <CiSearch className="size-8 p-[4px] opacity-80" />
           </button>
         </div>
 
